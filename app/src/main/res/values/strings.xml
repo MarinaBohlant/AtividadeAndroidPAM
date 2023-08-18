@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">APPExerc</string>
+    <string name="txtViewTitulo">Bem vindo!!!</string>
+    <string name="btnEx1">Primeiro Exercicio</string>
+    <string name="btnEx6">Sexto Exercicio</string>
+    <string name="txtViewTitulo2">Escreva dois números:</string>
+    <string name="editText1"></string>
+</resources>
