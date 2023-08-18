@@ -3,6 +3,15 @@
     <string name="txtViewTitulo">Bem vindo!!!</string>
     <string name="btnEx1">Primeiro Exercicio</string>
     <string name="btnEx6">Sexto Exercicio</string>
-    <string name="txtViewTitulo2">Escreva dois números:</string>
-    <string name="editText1"></string>
+    <string name="textViewValor1">Primeiro valor:</string>
+    <string name="textViewValor2">Segundo valor:</string>
+    <string name="textViewResultado">Resultado</string>
+    <string name="editTextNumber1">Digite aqui</string>
+    <string name="editTextNumber2">Digite aqui</string>
+    <string name="buttonVerificar">Verificar</string>
+    <string name="imageView">Cardápio</string>
+    <string name="editTxtNumProd">Informe o código</string>
+    <string name="editTxtNumQtd">Informe a quantidade</string>
+    <string name="buttonCalcular">Calcular</string>
+    <string name="textViewVlFinal">Valor final</string>
 </resources>
