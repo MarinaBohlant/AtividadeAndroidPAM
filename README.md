@@ -48,12 +48,30 @@ O -m serve para escrever uma mensagem no commit**
 
 Se tudo ocorrer certo, os arquivos da pasta estarão lá.
 
+# Apresentação dos exercícios
 
+## MENU DE STRING (STRINGS.XML)
 
+<img src="/Imagens/Strings.jpeg">
 
+No menu de strings podemos perceber que existem vários elementos, aonde cada um deles vai referenciar um elemento em todas as activities já criadas. 
+ 
+Na confecção de uma nova string, existe uma ordem de ações para se criar uma normalmente, e pegando de exemplo as strings apresentadas, podemos entender que:
 
+- (<string>…</string>): É o nome da tag de criação de uma string, onde nela serão contidas suas informações específicas; 
 
+- (name=”...”): É o nome que irá identificar a string de um elemento específico, onde, neste caso, foi utilizada o nome Identificador dos elementos nas activities; 
 
+- (<>”…"<>): Referente ao que se encontra dentro da tag, é o conteúdo que vai aparecer visualmente para o usuário.
 
+## DEMONSTRAÇÃO DE LAYOUT
+### Página Inicial (activity_main.xml)
 
+<img src="/Imagens/InicioApp.jpeg">
 
+Podemos observar que essa activity é minimalista, mostrando apenas um texto de boas vindas (numa TextView), um botão para entrar para entra no primeiro exercício e um outro botão para entrar no sexto exercício.
+
+## DEFINIÇÃO DOS ELEMENTOS NO JAVA - PART 1
+### Página Inicial (MainActivity.java)
+
+<img src="/Imagens/TelaInicial1java.jpeg">
