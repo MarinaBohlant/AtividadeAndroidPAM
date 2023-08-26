@@ -136,7 +136,7 @@ Partindo para o design do último exercício, podemos ver alguns elementos, colo
 
 **OBS: Para se colocar uma imagem, é preciso colocar a imagem em sí na pasta drawables, como visto da imagem no design e dentro da ImageView.**
 
-<img src="/Imagens/pastaDrawable.jpeg">
+<img src="/Imagens/pastaDrawables.jpeg">
 
 ## DEFINIÇÃO DOS ELEMENTOS NO JAVA - PART 5
 ### Página do Exercício 6 (MainActivity3.java)
